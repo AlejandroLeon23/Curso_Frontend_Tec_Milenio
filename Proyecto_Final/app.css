@@ -1,0 +1,17 @@
+/*reglas generales*/
+*{
+    font-family: Playfair, Relaway;
+}
+/*Media Query*/
+
+/** Reescribir colores */
+
+/** Productos */
+
+/** Clases */
+.container-fluid{
+    padding: 1%;
+    border-radius: 1%;
+    border-color: black;
+}
+
