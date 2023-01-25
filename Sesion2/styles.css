@@ -1,0 +1,10 @@
+.container{
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.25);
+    padding: 1em;
+
+}
+div{
+    border: 2px solid rgba(96, 139, 168, 0.2);
+    border-radius: 5px;
+}
+
